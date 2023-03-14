@@ -1,4 +1,4 @@
-import { Before, Given, Then, When } from "@badeball/cypress-cucumber-preprocessor"
+import { Before, Then, When } from "@badeball/cypress-cucumber-preprocessor"
 import { SummaryPO } from "../../pages/summary.po";
 
 let summaryPage: SummaryPO;

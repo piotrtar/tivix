@@ -1,4 +1,4 @@
-import { Before, Given, Then, When } from "@badeball/cypress-cucumber-preprocessor"
+import { Before, Then, When } from "@badeball/cypress-cucumber-preprocessor"
 import { getDateInGivenDaysFromNowAsString } from "../../support/dateUtil";
 import { DetailsPO } from "../../pages/details.po";
 
